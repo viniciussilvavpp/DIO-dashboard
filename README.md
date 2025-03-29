@@ -19,6 +19,6 @@ Este projeto consiste na criação de um **dashboard interativo no Microsoft Exc
 ## ✍️ Autor
 
 - Nome: *Vinicius Pereira Santos Silva*
-- LinkedIn: *[www.linkedin.com/in/vinicius-silva-809121246]*
-- GitHub: *[https://github.com/viniciussilvavpp]*
+- LinkedIn: *www.linkedin.com/in/vinicius-silva-809121246*
+- GitHub: *https://github.com/viniciussilvavpp*
 
